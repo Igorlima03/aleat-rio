@@ -1,0 +1,18 @@
+body{
+	height: 580px;
+	background-color: brown;
+	background-image: linear-gradient(to left,red, darkblue, darkorange);
+
+}
+h1{
+	color:white;
+	background-image: linear-gradient(to left,red, darkblue, darkorange);
+
+}
+p{  color:white;
+	background-image: linear-gradient(to left,red, darkblue, darkorange);
+	opacity: 1.5
+}
+h2{
+	background-image: linear-gradient(to left,red, darkblue, darkorange);
+}
